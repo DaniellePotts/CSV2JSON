@@ -1,5 +1,5 @@
 # CSV2JSON
-Basic CSV to JSON converter. Coverts 1..n files 
+Basic CSV to JSON converter. Converts 1..n files 
 
 Setup:
 
