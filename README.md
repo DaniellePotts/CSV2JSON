@@ -1,13 +1,13 @@
 # CSV2JSON
 Basic CSV to JSON converter. Converts 1..n files 
 
-Setup:
+**Setup:**
 
 ```
 npm install
 ```
 
-To run:
+**To run:**
 
 ```
 node myFile1.csv myFile2.csv
